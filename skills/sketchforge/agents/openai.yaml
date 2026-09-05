@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sketchforge"
+  short_description: "Trace reference images into standalone pure HTML and CSS art."
+  default_prompt: "Use $sketchforge to trace my reference image into a faithful standalone HTML/CSS illustration."
+policy:
+  allow_implicit_invocation: true

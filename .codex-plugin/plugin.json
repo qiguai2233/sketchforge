@@ -1,0 +1,24 @@
+{
+  "name": "sketchforge",
+  "version": "0.2.1",
+  "description": "Offline image-to-CSS contour tracing with local gradients and standalone HTML output.",
+  "author": {
+    "name": "qiguai2233",
+    "url": "https://github.com/qiguai2233"
+  },
+  "homepage": "https://github.com/qiguai2233/sketchforge",
+  "repository": "https://github.com/qiguai2233/sketchforge",
+  "license": "MIT",
+  "keywords": ["css-art", "image-tracing", "html", "offline", "codex-skill"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sketchforge",
+    "shortDescription": "将参考图片描摹成纯 HTML 与 CSS 插画",
+    "longDescription": "在本地通过颜色分区、轮廓提取和渐变拟合生成可直接打开的单文件 HTML，并检查输出不包含图片、SVG、Canvas、JavaScript 或外部资源。",
+    "developerName": "qiguai2233",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": ["将我提供的参考图片转换成尽可能接近原图的纯 HTML + CSS 单文件。"],
+    "brandColor": "#21B6AD"
+  }
+}

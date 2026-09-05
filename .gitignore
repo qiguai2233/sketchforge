@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.work/
+work/
+dist/
+build/
+*.egg-info/
+*.log
+.DS_Store
+Thumbs.db
+请勿提交该文件夹/
